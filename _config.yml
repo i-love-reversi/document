@@ -1,5 +1,6 @@
 # https://pages.github.com/themes/
-theme: jekyll-theme-minimal
+#theme: jekyll-theme-minimal
+theme: minima
 title: ほのぼのリバーシ
 description: ほのぼのリバーシのドキュメント
 exclude:
