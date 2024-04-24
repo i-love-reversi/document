@@ -1,5 +1,6 @@
+# https://pages.github.com/themes/
 theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: ほのぼのリバーシ
+description: ほのぼのリバーシのドキュメント
 exclude:
   - README.md
