@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Title
-permalink: /パーマリンクのタイトル/
+title: プライバシーポリシー
 ---
 
 # プライバシーポリシー
