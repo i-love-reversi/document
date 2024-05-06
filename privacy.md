@@ -3,6 +3,8 @@ layout: no-header-footer
 title: プライバシーポリシー
 ---
 
+# Privacy Policy / プライバシーポリシー (English / 日本語)
+
 # Terms of Use & Privacy Policy
 
 # 1. Introduction
