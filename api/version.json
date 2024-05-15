@@ -1,11 +1,11 @@
 {
   "ios": {
-    "version": "1.0.4",
-    "build": "7"
+    "version": "1.0.5",
+    "build": "10"
   },
   "android": {
-    "version": "1.0.2",
-    "build": "4"
+    "version": "1.0.5",
+    "build": "10"
   },
   "inherit": true
 }
