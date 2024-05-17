@@ -15,8 +15,9 @@ title: ほのぼのリバーシ
 
 <a href="honobono-reversi://i-love-reversi.github.io/app/7L39cRQ2p7bIbxHIoqdA">実験用</a>
 
+<a href="honobono-reversi://i-love-reversi.github.io/app/1234">Open by honobono app 1234</a>
 
-<a href="honobono-reversi://i-love-reversi.github.io/app/1234">Open by honobono app</a>
+<a href="honobono-reversi://i-love-reversi.github.io/app/">Open by honobono app none</a>
 
 
 <a href="honobono-reversi://i-love-reversi.github.io2/app/1234">Open by honobono io2 app</a>
