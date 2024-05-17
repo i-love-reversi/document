@@ -12,6 +12,12 @@ title: ほのぼのリバーシ
 
 
 
+<a href="honobono-reversi://i-love-reversi.github.io/app/1234">Open by honobono app</a>
+
+<a href="honobono-reversi://i-love-reversi.github.io/app/1234">Open by honobono app</a>
+
+
+<a href="honobono-reversi://i-love-reversi.github.io/app2/1234">Open by honobono app2</a>
 
 <a href="myapp://i-love-reversi.github.io/app/1234">Open by myapp app</a>
 
