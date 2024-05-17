@@ -17,6 +17,8 @@ title: ほのぼのリバーシ
 
 <a href="myapp://i-love-reversi.github.io/app2/1234">Open by myapp app2</a>
 
+<a href="myapp://i-love-reversi.github.io/hoge/1234">Open by myapp hoge</a>
+
 <a href="https://i-love-reversi.github.io/app/1234">Open by https</a>
 
 <a href="http://i-love-reversi.github.io/app/1234">Open by http</a>
