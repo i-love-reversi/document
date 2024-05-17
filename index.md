@@ -11,6 +11,7 @@ title: ほのぼのリバーシ
 <a href="https://apps.apple.com/jp/app/%E3%81%BB%E3%81%AE%E3%81%BC%E3%81%AE%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B7/id6502185427?itsct=apps_box_badge&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/ja-jp?size=250x83&amp;releaseDate=1714867200" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 
 
+<a href="honobono-reversi://i-love-reversi.github.io/app/2oMwA8LAWvkIcgCSB0Qw">実験用</a>
 
 <a href="honobono-reversi://i-love-reversi.github.io/app/1234">Open by honobono app</a>
 
