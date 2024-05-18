@@ -13,7 +13,7 @@ title: ほのぼのリバーシ
 
 <a href="honobono-reversi://i-love-reversi.github.io/app/2oMwA8LAWvkIcgCSB0Qw">実験用dev</a>
 
-<a href="https://i-love-reversi.github.io/app/2oMwA8LAWvkIcgCSB0Qw">実験用dev</a>
+<a href="https://i-love-reversi.github.io/app/2oMwA8LAWvkIcgCSB0Qw">実験用dev https</a>
 
 
 <a href="honobono-reversi://i-love-reversi.github.io/app/7L39cRQ2p7bIbxHIoqdA">実験用</a>
