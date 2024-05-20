@@ -1,7 +1,7 @@
 {
   "ios": {
-    "version": "1.0.7",
-    "build": "12"
+    "version": "1.0.8",
+    "build": "18"
   },
   "android": {
     "version": "1.0.8",
