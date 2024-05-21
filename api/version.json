@@ -4,8 +4,8 @@
     "build": "19"
   },
   "android": {
-    "version": "1.0.9",
-    "build": "19"
+    "version": "1.0.10",
+    "build": "20"
   },
   "inherit": true
 }
