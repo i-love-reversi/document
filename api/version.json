@@ -7,5 +7,9 @@
     "version": "1.0.14",
     "build": "24"
   },
+  "online": {
+    "version": "1.0.14",
+    "build": "24"
+  },
   "inherit": true
 }
