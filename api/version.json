@@ -1,11 +1,11 @@
 {
   "ios": {
-    "version": "1.0.19",
-    "build": "32"
+    "version": "1.0.21",
+    "build": "34"
   },
   "android": {
-    "version": "1.0.19",
-    "build": "32"
+    "version": "1.0.21",
+    "build": "34"
   },
   "online": {
     "version": "1.0.19",
